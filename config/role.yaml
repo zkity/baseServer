@@ -1,0 +1,12 @@
+# 列表中为不允许访问的API
+
+SUPER: []
+
+ADMIN: []
+
+USER:
+  - /hello
+
+GUEST:
+  - /hi
+  - /hello

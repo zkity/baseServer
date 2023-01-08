@@ -1,0 +1,10 @@
+Flask
+Flask_Cors
+Flask-Limiter
+Flask_SQLAlchemy
+Flask_APScheduler
+
+pyjwt
+PyYAML
+PyMySQL
+Werkzeug

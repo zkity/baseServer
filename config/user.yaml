@@ -1,0 +1,9 @@
+# VOLUME 下的目录会在程序运行时自动创建，如果存在则清空
+VOLUME:
+  # 下载目录
+  DOWNLOAD_FOLDER: volume/download
+  # 上传目录
+  UPLOAD_FOLDER: volume/upload
+
+# JWT 密钥，！！！填写自己的密钥
+SALT: 123
