@@ -43,7 +43,7 @@ git pull git@github.com:zkity/baseServer.git
     python生产sha256摘要
     ```python
     import hashlib
-    hashlib.sha256(b"Nobody inspects the spammish repetition").hexdigest()
+    hashlib.sha256(b"123").hexdigest()
     ```
 
 5. 启动
