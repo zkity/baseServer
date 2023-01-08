@@ -6,7 +6,7 @@
 1. 拉代码
 
 ``` bash
-git@github.com:zkity/baseServer.git
+git pull git@github.com:zkity/baseServer.git
 ```
 
 2. 安装依赖
