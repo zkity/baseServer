@@ -40,6 +40,12 @@ git pull git@github.com:zkity/baseServer.git
     2. 新增成员
     在数据库的`user`表中新增成员
 
+    python生产sha256摘要
+    ```python
+    import hashlib
+    hashlib.sha256(b"Nobody inspects the spammish repetition").hexdigest()
+    ```
+
 5. 启动
 
     1. 测试环境
